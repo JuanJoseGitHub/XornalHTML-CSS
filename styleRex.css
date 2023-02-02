@@ -1,0 +1,13 @@
+form {display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    margin: 20px;
+    }
+ 
+input [type="submit"] {
+    width: 30%;
+    }
+
+button  {
+        margin: 100px;
+        }

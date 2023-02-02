@@ -1,0 +1,42 @@
+body    {background-color: antiquewhite;}
+header  {text-align: center;
+        background-color: aquamarine;
+        border-style: solid;
+        margin: 1em;
+        padding: 1em;
+        border-radius: 1em;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+
+.lista  {display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        }
+
+        a       {font-style: italic;
+        text-decoration: none;}
+
+figcaption  {font-style: normal;}
+
+h6      {text-align: center;}
+
+h3      {color:rgb(226, 87, 87);
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+
+h1      {color: rgb(37, 69, 158);}
+
+header > time> h2 {color:rgb(13, 83, 59);
+        font-family:Georgia, 'Times New Roman', Times, serif;}
+
+.ED    {color: rgb(18, 119, 8);
+        font-size:0.75cm; }
+
+time    {color:rgb(253, 6, 6);
+        font-size: 0.60cm;
+        font-weight: 800;}
+
+img     {display: flex;
+        flex-direction:column;
+        flex-wrap: wrap;}
+        
